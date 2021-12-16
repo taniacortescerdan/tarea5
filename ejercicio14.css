@@ -1,0 +1,18 @@
+h1 {
+  letter-spacing:10px;
+  word-spacing:30px;
+  text-transform:capitalize;
+  border:2px dashed blue;
+}
+h2{
+  letter-spacing:10px;
+  word-spacing:30px;
+  text-transform:capitalize;
+  border:2px dotted blue;
+}
+h3{
+  letter-spacing:10px;
+  word-spacing:30px;
+  text-transform:capitalize;
+  border:2px double blue;
+}
